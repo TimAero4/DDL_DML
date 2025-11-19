@@ -12,5 +12,7 @@
 ### [wget_sakila_db](image/1.6_task_1.png)
 ### 1.7 Восстановите базу данных
 ### [sakila_db](image/1.7_task_1.png)
-### 
-## 2. Task
+### 1.8 ER-diagram
+### [show_databases](image/1.8_task_1.png)
+## 2.Task
+### [primary_key](image/task_2.png)
